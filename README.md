@@ -33,7 +33,7 @@ conda env create -f environment.yml
 
 ## Usage
 1. Clone or download the repository to your local machine.
-2. Open the [`cvproject.ipynb`](cvproject.ipynb) file in Jupyter Notebook.
+2. Open the [`auto_read.ipynb`](auto_read.ipynb) file in Jupyter Notebook.
 3. Replace the path to the sample image in the code with the path to your own image.
 4. Run the cells in the Jupyter Notebook to see the output.
 
