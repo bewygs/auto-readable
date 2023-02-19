@@ -2,6 +2,8 @@
 
 The aim of this repository is to create a program capable of reading a text written in an image. The image contains a photograph of a page of a document which can be taken with a free angle of view (inclination, perspective effect, etc.). It is therefore a question of estimating this angle of view in order to straighten the image so that it seems to be taken from the front. Then, it is necessary to implement a detection of lines, words and then letters in order to reconstitute the entire text.
 
+![results](docs\res.png "results")
+
 ## Prerequisites 
 
 - matplotlib
