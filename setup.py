@@ -18,7 +18,7 @@ setup(
     long_description=readme,
     author='bewygs',
     author_email='benoit.wgs@protonmail.com',
-    url='https://github.com/',
+    url='https://github.com/bewygs/auto-readable',
     license=license,
     packages=find_packages(),
     install_requires=install_requires,
