@@ -1,0 +1,12 @@
+name: auto_read
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - opencv
+  - numpy
+  - scipy
+  - python=3.8
+  - jupyter
+  - pytesseract
+prefix: C:\Users\Username\.conda\envs\auto_read
